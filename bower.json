@@ -3,6 +3,7 @@
   "description": "WPI's Symphonic Association site",
   "version": "1.0.0",
   "dependencies": {
-    "bootstrap": "~3.3.5"
+    "bootstrap": "~3.3.5",
+    "flexboxgrid": "~6.3.0"
   }
 }
