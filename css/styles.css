@@ -8,6 +8,7 @@ body {
 .bg-1 {
 
 	background-image: url('../img/bg-trans-2.jpg');
+    min-height: 900px;
 	
 }
 
